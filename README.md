@@ -1,10 +1,6 @@
 # Live Doodle Classifier 
 
-<img align="left" width="285" height="312" src="https://github.com/A713F3/Doodle_Detection.PY/blob/main/images/apple.png">
-
-<img align="left" width="284" height="308" src="https://github.com/A713F3/Doodle_Detection.PY/blob/main/images/airplane.png">
-
-<br/>
+<img width="284" height="308" src="https://github.com/A713F3/Doodle_Detection.PY/blob/main/images/apple.png"/><img width="284" height="308" src="https://github.com/A713F3/Doodle_Detection.PY/blob/main/images/airplane.png"/>
 
 ### Dataset
 * Google; The Quick, Draw! Dataset; [link](https://github.com/googlecreativelab/quickdraw-dataset)
