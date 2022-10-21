@@ -1,8 +1,8 @@
 # Live Doodle Classifier 
 
-<img align="left" width="285" height="312" src="https://github.com/A713F3/Doodle_Detection.PY/blob/master/images/apple.png">
+<img align="left" width="285" height="312" src="https://github.com/A713F3/Doodle_Detection.PY/blob/main/images/apple.png">
 
-<img align="left" width="284" height="308" src="https://github.com/A713F3/Doodle_Detection.PY/blob/master/images/airplane.png">
+<img align="left" width="284" height="308" src="https://github.com/A713F3/Doodle_Detection.PY/blob/main/images/airplane.png">
 
 
 ### Dataset
