@@ -4,6 +4,7 @@
 
 <img align="left" width="284" height="308" src="https://github.com/A713F3/Doodle_Detection.PY/blob/main/images/airplane.png">
 
+<br/>
 
 ### Dataset
 * Google; The Quick, Draw! Dataset; [link](https://github.com/googlecreativelab/quickdraw-dataset)
